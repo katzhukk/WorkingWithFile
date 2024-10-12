@@ -1,0 +1,26 @@
+{
+  "guitars": [
+    {
+      "brand": "RockDale",
+      "model": "Aurora D1",
+      "type": "Acoustic",
+      "material": "Mahogany",
+      "guitarStrings": {
+        "strings": "6",
+        "materialString": "Bronze",
+        "thicknessString": "9-45"
+      }
+    },
+    {
+      "brand": "YAMAHA",
+      "model": "F310",
+      "type": "Acoustic",
+      "material": "Mahogany",
+      "guitarStrings": {
+        "strings": "6",
+        "materialString": "Steel",
+        "thicknessString": "9-42"
+      }
+    }
+  ]
+}
